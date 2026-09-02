@@ -1,0 +1,44 @@
+Git >> Version Control
+
+    v1
+    v2
+    v3
+New v4
+
+
+>> It is disyributed ( on Cloud )
+>> Collaboration
+>> Tracking Changes
+
+GitHub
+BitBucket
+GitLads
+GitPod
+
+   >>For 1st Time need to configure github in our system
+  git config --global user.name "bhaskar-devlab"
+  git config --global user.email "bmukherjee2k@gmail.com"
+
+
+  git config --global color.ui auto
+
+  Mandatory Commands: 
+  >> git init
+  >> git remote add origin https://github.com/bhaskar-devlab/GitDemo.git
+
+
+
+
+
+  git pull origin main
+  git ststus 
+
+  git add . 
+  git status 
+  git commit m "Commit message"
+  git push 
+
+
+
+
+
