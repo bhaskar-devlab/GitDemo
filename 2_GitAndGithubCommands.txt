@@ -35,9 +35,12 @@ GitPod
 
   git add . 
   git status 
-  git commit m "Commit message"
+  git commit -m "Commit message"
   git push 
 
+
+Create a new branch:
+    >> git checkout -b "Branch Name"
 
 
 
