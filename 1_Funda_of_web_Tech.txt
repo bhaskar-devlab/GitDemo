@@ -1,0 +1,84 @@
+MEAN stack
+    >> M: MongoDB (Database)
+    >> E: Express.js (Backend)
+    >> A: Angular (Frontend)
+    >> N: NodeJS (Backend)  
+
+
+Three pillars 
+    >> HTML (Hyper Text Markup Language)
+    >> CSS (Cascading Style Sheets)
+    >> javaScript(JS)
+
+Other Stacks
+>> MEAN, MERN, Java Full stack
+
+
+Web Dev 
+    >>Building/Developer Team
+    >>Testing Team(Manual Tester/Automated Tester)
+    >>Hosting Team (devOps TEam) 
+    >>Maintenabce Team/Support Team
+
+
+SDLC (Software Development Life Cycle):
+    >> WaterFall Model
+    >>Agile Model
+    >>Spiral Model
+    >>Iterative Model
+    >>Incremental Model
+    >>RAD (Rapid Application Development) Model
+
+URL(Uniform Resource Locator)
+https://www.instagram.com/
+https://education.lalaAcademy.edu/FullStack
+
+https: Protcol
+lalaAcademy: Server/Domin Name
+education: Sub-Domin
+.edu: TLD(Top Level Domin)
+FullStack: Path/Location
+
+
+Protcol:
+    >> Set of rules/instructions
+        http: Hyper Text Transfer Protcol
+        https: Hyper Text Transfer Protcol Secure
+        tcp: transmission Control Protcol
+        udp: User Datagram Program
+        smtp: Simple Mail transfer Protcol
+        ftp: File transfer Protcol
+        ip: Internet Protcol
+
+            >> Client /Web Page ------(uName & uPwd)------> instagram Server
+            >> SSL (Secure Socket Layer) Certification
+
+
+
+
+Server/Domin:
+    >> Unique Identifier 
+        >> Eg: Google , Amzon
+
+Sub-Domin Name:
+    >> gMeet
+    >> gMaps
+    >> gDrive
+    >> Gmail
+    >> gphotos
+    >> gChrome
+    >> gCalendar
+    >> gpay
+
+    >> Amzon Shopping 
+    >> AWS
+
+TLD(Top Level Domail)
+    Amzon.in(India)
+    Amzon.com(Commercial)
+    Amzon.edu(Education)
+    Amzon.org(Organsisation)
+    Amzon.uk(United Kingdom)
+
+
+ 
